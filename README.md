@@ -1,5 +1,9 @@
 # ragemp-stub
 
+> **Important!**
+>
+> RAGE:MP team have announced that they are shutting down all of their services ([click here to read more](https://rage.mp/forums/topic/26561-long-term-eco-system-integration-pt-ii-final-outreach-cd/)). Therefore this repository will no longer be maintained.
+
 [![Publish npm package](https://github.com/wiresnchains/ragemp-stub/actions/workflows/publish.yml/badge.svg)](https://github.com/wiresnchains/ragemp-stub/actions/workflows/publish.yml)
 
 An abstraction layer over [RAGE:MP API](https://wiki.rage.mp/wiki/Main_Page) that allows you to mock objects for unit testing.
